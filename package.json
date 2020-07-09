@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "a social network api using mongoDB and mongoose.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bskutivan/social-network-api.git"
+  },
+  "author": "Brandon Kutivan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bskutivan/social-network-api/issues"
+  },
+  "homepage": "https://github.com/bskutivan/social-network-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.22"
+  }
+}
